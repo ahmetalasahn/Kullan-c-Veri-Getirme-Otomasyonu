@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NO2B_H02ModelStoreContainer" CdmEntityContainer="NO2B_H02Entities">
+    <EntitySetMapping Name="Kullanici">
+      <EntityTypeMapping TypeName="NO2B_H02Model.Kullanici">
+        <MappingFragment StoreEntitySet="Kullanici">
+          <ScalarProperty Name="YetkiSil" ColumnName="YetkiSil" />
+          <ScalarProperty Name="YetkiGuncelle" ColumnName="YetkiGuncelle" />
+          <ScalarProperty Name="YetkiKayit" ColumnName="YetkiKayit" />
+          <ScalarProperty Name="Sifre" ColumnName="Sifre" />
+          <ScalarProperty Name="KullaniciAdi" ColumnName="KullaniciAdi" />
+          <ScalarProperty Name="KullaniciID" ColumnName="KullaniciID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rehber">
+      <EntityTypeMapping TypeName="NO2B_H02Model.Rehber">
+        <MappingFragment StoreEntitySet="Rehber">
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="AdSoyad" ColumnName="AdSoyad" />
+          <ScalarProperty Name="RehberID" ColumnName="RehberID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

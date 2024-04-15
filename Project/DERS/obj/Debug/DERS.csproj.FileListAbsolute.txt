@@ -1,0 +1,17 @@
+C:\Users\OGRCAD\Desktop\DERS\DERS\bin\Debug\DERS.exe.config
+C:\Users\OGRCAD\Desktop\DERS\DERS\bin\Debug\DERS.exe
+C:\Users\OGRCAD\Desktop\DERS\DERS\bin\Debug\DERS.pdb
+C:\Users\OGRCAD\Desktop\DERS\DERS\bin\Debug\EntityFramework.dll
+C:\Users\OGRCAD\Desktop\DERS\DERS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OGRCAD\Desktop\DERS\DERS\bin\Debug\EntityFramework.xml
+C:\Users\OGRCAD\Desktop\DERS\DERS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.csproj.AssemblyReference.cache
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.Form1.resources
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.Properties.Resources.resources
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.csproj.GenerateResource.cache
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.csproj.CoreCompileInputs.cache
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.csproj.CopyComplete
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.exe
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.pdb
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.FRM_Giris.resources
+C:\Users\OGRCAD\Desktop\DERS\DERS\obj\Debug\DERS.frmEkleGuncelle.resources
